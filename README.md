@@ -1,4 +1,5 @@
-# Welcome!
+# Welcome
+
 ## _My name is Marisol Salazar_
 
 - I am from Colombia
@@ -7,6 +8,7 @@
 With knowledge in **python and data analysis and management of sql databases**
 
 ### This is the five commands
+
 | Command | Description         |
 | ------- | -----------         |
 | clear   | clean screen        |
@@ -16,7 +18,7 @@ With knowledge in **python and data analysis and management of sql databases**
 | alias   | list alias          |
 
 ### This is my alias most used
-``` alias mostused='history | awk '\''{print $2} '\'' | sort | uniq -c | sort -nr | head -n 10' ```
 
+``` alias mostused='history | awk '\''{print $2} '\'' | sort | uniq -c | sort -nr | head -n 10' ```
 
 ``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ```
