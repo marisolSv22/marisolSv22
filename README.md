@@ -15,3 +15,6 @@ With knowledge in **python and data analysis and management of sql databases**
 | yarn    | install dependecies |
 | alias   | list ali            |
 
+### This is my alias most used
+alias mostused='history | awk '\''{print $2} '\'' | sort | uniq -c | sort -nr | head -n 10'
+
