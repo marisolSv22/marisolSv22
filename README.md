@@ -6,6 +6,12 @@
 
 With knowledge in **python and data analysis and management of sql databases**
 
-| Comando | Descripcion |
-| ------- | ----------- |
+### This is the five commands
+| Command | Description         |
+| ------- | -----------         |
+| clear   | clean screen        |
+|  ls     | list directory      |
+|  cd     | change directory    |
+| yarn    | install dependecies |
+| alias   | list ali            |
 
