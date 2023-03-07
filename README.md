@@ -16,7 +16,7 @@ With knowledge in **python and data analysis and management of sql databases**
 | alias   | list ali            |
 
 ### This is my alias most used
-1 ``` alias mostused='history | awk '\''{print $2} '\'' | sort | uniq -c | sort -nr | head -n 10' ```
+``` alias mostused='history | awk '\''{print $2} '\'' | sort | uniq -c | sort -nr | head -n 10' ```
 
 
-2 ``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ```
+``` alias cafe="cat /dev/urandom | hexdump | grep \"ca fe\"" ```
