@@ -1,11 +1,16 @@
-https://github.com/marisolSv22
-
 # Welcome
+
+## Contact me 📲
+
+> [Github](https://github.com/marisolSv22)
+> 
+> [Linkedln](https://www.linkedin.com/in/marisol-salazar-valencia-928091242/)
 
 ## _My name is Marisol Salazar_
 
 - I am from Colombia
-- I am studying Sofwate Analisys and Development in the Seina
+
+- 👩‍🎓 I am studying Sofwate Analisys and Development in the Seina
 
 With knowledge in **python and data analysis and management of sql databases**
 
