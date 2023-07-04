@@ -1,6 +1,6 @@
-# Welcome
+# Welcome 🤗 
 
-## _My name is Marisol Salazar_ Jr Fullstack Development
+## _My name is Marisol Salazar_ Jr Fullstack Development 👩‍💻👩‍💻
 
 - I am from Colombia
 
