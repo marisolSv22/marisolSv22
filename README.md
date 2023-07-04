@@ -10,15 +10,19 @@ With knowledge in **python and data analysis and management of sql databases**
 
 ## Skills: 
 
-> Javascript
-> Node Js
-> React Js
-> Next Js
-> Mysql
-> Sql server
-> Mongo DB
+> Javascript 
 > 
-
+> Node Js
+> 
+> React Js
+> 
+> Next Js
+>
+> Mysql
+>
+> Sql server
+>
+> Mongo DB
 
 ## Contact me 📲
 
