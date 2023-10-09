@@ -4,7 +4,7 @@
 
 - I am from Colombia
 
-- 👩‍🎓 I am technology in Sofwate Analisys and Development in the Sena
+- 👩‍🎓 I am technology in Software Analisys and Development in the Sena
 
 With knowledge in **python and data analysis and management of sql databases**
 
